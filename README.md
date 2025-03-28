@@ -1,3 +1,3 @@
-- [I write a blog where I document my learning and write tutorials.](https://quellus.github.io/)
+- [I write a blog where I document my learning and write tutorials.](https://quellus.xyz/blog/)
 - [I live stream my development process on Twitch.](https://www.twitch.tv/quellusdev)
 - [I'm working on a 2D RPG game available to play now!](https://quellus.itch.io/mycoflora)
