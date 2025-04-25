@@ -1,3 +1,3 @@
-- [Play my latest game submitted to Godot Wild Jam!](https://code807.itch.io/kitchen-shuffle)
-- [I create and manage an open source PNGTuber program!](https://github.com/quellus/GDTuber)
+- [Our latest game, Kitchen Shuffle, was recently submitted to Godot Wild Jam!](https://code807.itch.io/kitchen-shuffle)
+- [Help us develop a free and open source PNGTuber program!](https://github.com/quellus/GDTuber)
 - [I live stream my development process on Twitch.](https://www.twitch.tv/quellusdev)
